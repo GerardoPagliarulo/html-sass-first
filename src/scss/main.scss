@@ -1,0 +1,18 @@
+// VARS
+$title-color: pink;
+$main-background: brown;
+
+// GENERALS
+body {
+    font-family: sans-serif;
+    background: $main-background;
+    color: #fff;
+}
+
+h2 {
+    color: $title-color;
+}
+
+h3 {
+    color: $title-color;
+}
